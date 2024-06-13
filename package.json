@@ -1,0 +1,25 @@
+{
+  "name": "react-ts",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/react": "^18.0.8",
+    "@types/react-dom": "^18.0.2",
+    "prop-types": "^15.6.0",
+    "qr-scanner": "^1.4.1",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "reset-css": "^5.0.1",
+    "rodal": "^1.8.3",
+    "sass": "^1.52.1"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "react-scripts-ts": "latest"
+  }
+}
